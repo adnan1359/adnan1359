@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adnan Anam</h1>
-![](https://www.dropbox.com/s/53o80g58o5skwgz/lofi_coding.jpg?dl=0)
+<img src="https://www.dropbox.com/s/53o80g58o5skwgz/lofi_coding.jpg?dl=0" alt="adnan1359" />
 <h3 align="center">A passionate Data Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnan1359&label=Profile%20views&color=0e75b6&style=flat" alt="adnan1359" /> </p>
