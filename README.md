@@ -1,4 +1,4 @@
-[![MasterHead](https://www.dropbox.com/s/53o80g58o5skwgz/lofi_coding.jpg?dl=0)](https://github.com/adnan1359)
+![alt tag](https://www.dropbox.com/s/53o80g58o5skwgz/lofi_coding.jpg?dl=0)
 
 <h1 align="center">Hi 👋, I'm Adnan Anam</h1>
 <h3 align="center">A passionate Data Enthusiast from India</h3>
